@@ -1,0 +1,10 @@
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\bin\iPhone\Debug\Tests_SubStation.exe
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\bin\iPhone\Debug\Tests_SubStation.pdb
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\obj\iPhone\Debug\optimized\
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\obj\iPhone\Debug\Tests_SubStation.csprojResolveAssemblyReference.cache
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\obj\iPhone\Debug\Tests_SubStation.exe
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\obj\iPhone\Debug\Tests_SubStation.pdb
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\obj\iPhone\Debug\Tests_SubStation.exe.mdb
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\bin\iPhone\Debug\Tests_SubStation.exe.mdb

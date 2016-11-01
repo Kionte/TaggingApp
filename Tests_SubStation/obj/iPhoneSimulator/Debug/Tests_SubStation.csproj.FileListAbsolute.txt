@@ -1,0 +1,9 @@
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\bin\iPhoneSimulator\Debug\Tests_SubStation.exe
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\bin\iPhoneSimulator\Debug\Tests_SubStation.pdb
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\obj\iPhoneSimulator\Debug\Tests_SubStation.exe
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\obj\iPhoneSimulator\Debug\Tests_SubStation.pdb
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\obj\iPhoneSimulator\Debug\Tests_SubStation.exe.mdb
+C:\Users\agazeley18\Source\Repos\TaggingApp\Tests_SubStation\bin\iPhoneSimulator\Debug\Tests_SubStation.exe.mdb
